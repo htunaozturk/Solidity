@@ -1,0 +1,28 @@
+// SPDX-License-Identifier: GPL-3.0
+
+pragma solidity ^0.8.0.;
+
+contract Constructor{
+
+// constant, immutable
+// differences
+   uint public immutable number; 
+   uint public constant number = 10;
+
+   function set(uint num) public{
+
+
+    number = num;
+   }
+
+
+uint public immutable number;
+
+constructor (uint num){
+
+    function set(uint num2)
+}
+
+}
+
+
