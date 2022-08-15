@@ -1,0 +1,7 @@
+/*
+
+Logical AND	&&	Returns true if both conditions are true and false if one or both conditions are false
+
+Logical OR	||	Returns true if one or both conditions are true and false when both are false
+
+*/
